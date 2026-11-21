@@ -2,7 +2,7 @@
 
 [![Make.fun Tiny Chess](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
 [![Make.fun Rank](https://make.fun/badge/tiny-chess-01/Jodder01/4kb-chess-jsr/rank.svg)](https://make.fun/bounty/tiny-chess-01)
-
+[![Make.fun Reward](https://make.fun/badge/tiny-chess-01/Jodder01/4kb-chess-jsr/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 A compact Python chess engine submitted for the **Make.fun Tiny Chess Challenge**.
 
 ## Overview
